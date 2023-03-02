@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F65D3F7F-BD08-4E48-940F-7DA29CAF20B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayRazmernPols/Program.cs">
+    <Files>
+      <File FileName="ArrayRazmernPols/Program.cs" Line="35" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArrayRazmernPols" expanded="True">
+            <Node name="ArrayRazmernPols" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/Program.cs" relfile="ArrayRazmernPols/Program.cs" line="45" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ArrayRazmernPols PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

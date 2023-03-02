@@ -1,0 +1,15 @@
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/bin/Debug/net7.0/ArrayRazmernPols
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/bin/Debug/net7.0/ArrayRazmernPols.deps.json
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/bin/Debug/net7.0/ArrayRazmernPols.runtimeconfig.json
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/bin/Debug/net7.0/ArrayRazmernPols.dll
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/bin/Debug/net7.0/ArrayRazmernPols.pdb
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/obj/Debug/net7.0/ArrayRazmernPols.csproj.AssemblyReference.cache
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/obj/Debug/net7.0/ArrayRazmernPols.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/obj/Debug/net7.0/ArrayRazmernPols.AssemblyInfoInputs.cache
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/obj/Debug/net7.0/ArrayRazmernPols.AssemblyInfo.cs
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/obj/Debug/net7.0/ArrayRazmernPols.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/obj/Debug/net7.0/ArrayRazmernPols.dll
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/obj/Debug/net7.0/refint/ArrayRazmernPols.dll
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/obj/Debug/net7.0/ArrayRazmernPols.pdb
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/obj/Debug/net7.0/ArrayRazmernPols.genruntimeconfig.cache
+/Users/mak/Projects/ArrayRazmernPols/ArrayRazmernPols/obj/Debug/net7.0/ref/ArrayRazmernPols.dll
